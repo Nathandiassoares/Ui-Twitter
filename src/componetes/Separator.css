@@ -1,0 +1,6 @@
+.separator {
+  background: var(--separator);
+  border-top: 1px solid var(--separator);
+  border-bottom: 1px solid var(--separator);
+  height: 0.75rem;
+}

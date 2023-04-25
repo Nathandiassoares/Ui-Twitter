@@ -1,6 +1,6 @@
 # UI-Twitter
 
-![Imagem do projeto UI-Twitter](https://img.freepik.com/vetores-gratis/modern-twitter-background_1035-8934.jpg?w=740&t=st=1682413629~exp=1682414229~hmac=410496b0f976e1c2910e1518d0f4979586113ad1d72ace20734627d21ee17b06)
+![Imagem do projeto UI-Twitter](https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-256.png)
 
 Recriação da interface do Twitter com algumas funcionalidades adicionais.
 

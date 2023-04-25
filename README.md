@@ -1,6 +1,4 @@
-# UI-Twitter
-
-![Imagem do projeto UI-Twitter](https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-256.png)
+# UI-Twitter <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-256.png" alt="Imagem do projeto UI-Twitter" width="30" height="30">
 
 Recriação da interface do Twitter com algumas funcionalidades adicionais.
 

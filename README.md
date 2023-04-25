@@ -1,12 +1,28 @@
-# Bem-vindo ao Projeto XYZ!
+# Receita de Bolo de Chocolate
 
-Este é um projeto de software escrito em Python, que foi desenvolvido para ajudar os usuários a gerenciar suas tarefas diárias, utilizando a biblioteca Pandas para manipulação de dados.
+## Ingredientes
 
-## Principais Características
+- 2 xícaras de farinha de trigo
+- 1 xícara de açúcar
+- 1/2 xícara de cacau em pó
+- 1 colher de chá de fermento em pó
+- 1 colher de chá de bicarbonato de sódio
+- 1/2 colher de chá de sal
+- 1 xícara de leite
+- 1/2 xícara de óleo vegetal
+- 2 ovos
+- 1 colher de chá de extrato de baunilha
 
-- Suporte para criar, editar e excluir tarefas
-- Filtragem e classificação de tarefas
-- Interface de linha de comando (CLI) simples de usar
+## Modo de Preparo
 
-Esperamos que você ache nosso projeto útil e fácil de usar!
+1. Pré-aqueça o forno a 180°C.
+2. Em uma tigela grande, misture a farinha, o açúcar, o cacau em pó, o fermento em pó, o bicarbonato de sódio e o sal.
+3. Em outra tigela, misture o leite, o óleo vegetal, os ovos e o extrato de baunilha.
+4. Adicione os ingredientes líquidos aos ingredientes secos e misture bem até obter uma massa homogênea.
+5. Despeje a massa em uma forma untada e asse por 30-35 minutos, ou até que um palito inserido no centro do bolo saia limpo.
+6. Deixe o bolo esfriar antes de servir.
+
+*Aproveite seu delicioso bolo de chocolate!*
+
+
 

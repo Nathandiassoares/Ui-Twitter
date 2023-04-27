@@ -5,7 +5,7 @@ import './Defaoult.css'
 
 export function Defaoult() {
   return (
-    <div className="layout black">
+    <div className="layout">
     <Sidebar />
     <div className="content">
        <Outlet />

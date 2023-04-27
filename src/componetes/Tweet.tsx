@@ -6,7 +6,6 @@ interface TweetsProps {
   content: string
 }
 
-
 export function Tweet(props: TweetsProps) {
   return (
     <Link to="/Status" className="tweet">

@@ -4,19 +4,19 @@
   box-sizing: border-box;
 }
 
-.black,
+
 :root {
   --background:#121214;
   --text:#fff;
   --separator:#2F2F2F;
 }
 
-.light,
+/* .light,
 :root {
   --background:#fff;
   --text:#121214;
   --separator:#c9c7c7;
-}
+} */
 
 
 :root {
@@ -24,7 +24,7 @@
   --placerouder-atSign:#5b7083;
 }
 
-.layout {
+body {
   background: var(--background);
   color: var(--text);
   -webkit-font-smoothing: antialiased;

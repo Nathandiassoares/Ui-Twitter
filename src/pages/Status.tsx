@@ -55,9 +55,6 @@ export function Status() {
           </button>
       </form>
 
-
-      {/* <Tweet content="Erro linha abaixo" /> */}
-
       {
         answer.map(answer => {
           return <Tweet key={answer} content={answer} />

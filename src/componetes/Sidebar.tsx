@@ -1,4 +1,4 @@
-import TwitterLogo from '../assets/logo-Twitter.svg';
+import TwitterLogo from '../assets/logo-twitter.svg';
 import { House, Hash, Bell, Envelope, BookmarkSimple, FileText, User, DotsThreeCircle, Pencil } from 'phosphor-react';
 import './Sidebar.css';
 import { NavLink } from 'react-router-dom';

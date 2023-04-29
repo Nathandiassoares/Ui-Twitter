@@ -21,25 +21,25 @@ export function Status() {
     setNewAnswer('')
   }
 
-  function handleHotKeySubmit(event: KeyboardEvent){
-    if (event.key === 'Enter' && (event.ctrlKey || event.metaKey)){
+  function handleHotKeySubmit(event: KeyboardEvent) {
+    if (event.key === 'Enter' && (event.ctrlKey || event.metaKey)) {
       setAnswer([newAnswer, ...answer])
       setNewAnswer('')
     }
-    
+
   }
 
   return (
     <main className="Status">
       <Header title="Tweet" />
 
-      <Tweet content={"Quando você aprende Tailwind, você não aprende CSS e sim aprende o Tailwind? 🤔"} />
+  <Tweet content={`"Quando você aprende Tailwind, você não aprende CSS e sim aprende o Tailwind"`} /> 
 
       <Separator />
 
       <form onSubmit={createNewAnswer} className="answer-tweet-form">
         <label htmlFor="tweet">
-          <img src="https://github.com/diego3g.png" alt="Diego" />
+          <img src="https://github.com/nathandiassoares.png" alt="Nathan" />
           <textarea id="tweet"
             placeholder="Tweet tour answer"
             value={newAnswer}
@@ -52,7 +52,7 @@ export function Status() {
         <button type="submit">
           <PaperPlaneRight />
           <span>Answer</span>
-          </button>
+        </button>
       </form>
 
       {
